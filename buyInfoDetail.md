@@ -1,6 +1,6 @@
 ```plantuml
 @startuml
-skinparam defaultFontName Courier
+skinparam defaultFontName Helvetica
 
 title 购买信息并查看详情
 Actor "用户" as user
